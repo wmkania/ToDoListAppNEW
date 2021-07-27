@@ -1,3 +1,5 @@
+function newItem(){
+
 
   let li = $('<li></li>');
   let inputValue = $('#input').val();
@@ -26,3 +28,5 @@ function deleteListItem(){
 li.addClass("delete")
 }
    $('#list').sortable();
+
+}
