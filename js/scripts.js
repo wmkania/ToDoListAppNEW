@@ -25,7 +25,6 @@
   li.addClass("delete")
   }
      $('#list').sortable();
-  */
 
 
 }
