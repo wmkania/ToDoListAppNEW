@@ -1,4 +1,3 @@
-
 function newItem(){
 
 let listItem = $('<li><li>');
